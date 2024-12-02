@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://thirsty-goodall-d21ccc.netlify.app/sitemap.xml
+Sitemap: https://marcjourdan.netlify.app/sitemap.xml
